@@ -1,6 +1,6 @@
+script_key="YOUR KEY IDIOT";
 getgenv().Comet = {
     ['StartUP'] = {
-        Key = 'LuarmorKey', -- replace with luarmor key
         UWP_Optimize = true,
         UnlockFPS = true,
         Intro = true,
